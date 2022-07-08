@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently other things
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: bliwi#8220 on discord
+- 📫 How to reach me: Bliwi#8220 on discord
 
 <!---
 Bliwi/Bliwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
