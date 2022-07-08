@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bliwi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently other things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bliwi#8220 on discord
 
